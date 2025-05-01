@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: db4c953a517cf8243b6222922085c83c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ro1: {instanceID: 0}
+  - img: {instanceID: 0}
+  - rend: {instanceID: 0}
+  - Checkbottom: {instanceID: 0}
+  - Checkbottom1: {instanceID: 0}
+  - Checkbottom2: {instanceID: 0}
+  - DingSound: {instanceID: 0}
+  - Endtest: {fileID: 8300000, guid: ea6d5b794c42a11478b4660a12a23263, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

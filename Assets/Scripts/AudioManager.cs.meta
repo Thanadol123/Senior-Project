@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2660c11a12f189a469390101bf6dd47d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MusicSource: {instanceID: 0}
+  - SFXSource: {instanceID: 0}
+  - Background: {fileID: 8300000, guid: e703d5eaea82a8d48aab67bb050f7a69, type: 3}
+  - Presentlab: {instanceID: 0}
+  - Popbubble: {instanceID: 0}
+  - Glassdrop: {instanceID: 0}
+  - Checkboard: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
